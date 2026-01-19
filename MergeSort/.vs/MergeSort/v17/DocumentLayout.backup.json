@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1818D0A7-96F6-481D-93CC-67D593BB5336}|MergeSort.csproj|C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1818D0A7-96F6-481D-93CC-67D593BB5336}|MergeSort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1818D0A7-96F6-481D-93CC-67D593BB5336}|MergeSort.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1818D0A7-96F6-481D-93CC-67D593BB5336}|MergeSort.csproj|solutionrelative:mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:27:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MergeSort\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:26:16.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
